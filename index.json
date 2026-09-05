@@ -1,0 +1,10 @@
+{
+  "name": "My Nebula Repo",
+  "providers": [
+    {
+      "name": "MoviesMod",
+      "description": "Scrapes moviesmod.zone via JS Sandbox",
+      "url": "https://raw.githubusercontent.com/rajarajanponraj/nebula-providers/refs/heads/main/mod.json"
+    }
+  ]
+}
