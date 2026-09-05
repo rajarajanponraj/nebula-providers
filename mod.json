@@ -1,0 +1,6 @@
+{
+  "id": "vega-mod",
+  "name": "MoviesMod",
+  "format": "js",
+  "scriptUrl": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/mod/stream.js"
+}
