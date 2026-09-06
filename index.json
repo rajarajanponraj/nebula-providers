@@ -1,10 +1,314 @@
 {
-  "name": "My Nebula Repo",
+  "name": "Vega Providers Full Repository",
+  "description": "A complete collection of all JS providers from the Zenda-Cross/vega-providers repository.",
   "providers": [
     {
-      "name": "MoviesMod",
-      "description": "Scrapes moviesmod.zone via JS Sandbox",
-      "url": "https://raw.githubusercontent.com/rajarajanponraj/nebula-providers/refs/heads/main/mod.json"
+      "id": "vega-1cinevood",
+      "name": "1cinevood",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/1cinevood/stream.js"
+    },
+    {
+      "id": "vega-4khdhub",
+      "name": "4khdhub",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/4khdhub/stream.js"
+    },
+    {
+      "id": "vega-Joya9tv",
+      "name": "Joya9tv",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/Joya9tv/stream.js"
+    },
+    {
+      "id": "vega-a111477",
+      "name": "a111477",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/a111477/stream.js"
+    },
+    {
+      "id": "vega-anikoto",
+      "name": "anikoto",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/anikoto/stream.js"
+    },
+    {
+      "id": "vega-animetsu",
+      "name": "animetsu",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/animetsu/stream.js"
+    },
+    {
+      "id": "vega-autoEmbed",
+      "name": "autoEmbed",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/autoEmbed/stream.js"
+    },
+    {
+      "id": "vega-cinefreak",
+      "name": "cinefreak",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/cinefreak/stream.js"
+    },
+    {
+      "id": "vega-cinemaLuxe",
+      "name": "cinemaLuxe",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/cinemaLuxe/stream.js"
+    },
+    {
+      "id": "vega-dooflix",
+      "name": "dooflix",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/dooflix/stream.js"
+    },
+    {
+      "id": "vega-drive",
+      "name": "drive",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/drive/stream.js"
+    },
+    {
+      "id": "vega-eonMovies",
+      "name": "eonMovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/eonMovies/stream.js"
+    },
+    {
+      "id": "vega-everything",
+      "name": "everything",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/everything/stream.js"
+    },
+    {
+      "id": "vega-filmyfly",
+      "name": "filmyfly",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/filmyfly/stream.js"
+    },
+    {
+      "id": "vega-flixhq",
+      "name": "flixhq",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/flixhq/stream.js"
+    },
+    {
+      "id": "vega-gokuHD",
+      "name": "gokuHD",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/gokuHD/stream.js"
+    },
+    {
+      "id": "vega-guardahd",
+      "name": "guardahd",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/guardahd/stream.js"
+    },
+    {
+      "id": "vega-hdhub4u",
+      "name": "hdhub4u",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/hdhub4u/stream.js"
+    },
+    {
+      "id": "vega-hiAnime",
+      "name": "hiAnime",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/hiAnime/stream.js"
+    },
+    {
+      "id": "vega-katMovieFix",
+      "name": "katMovieFix",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/katMovieFix/stream.js"
+    },
+    {
+      "id": "vega-katmovies",
+      "name": "katmovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/katmovies/stream.js"
+    },
+    {
+      "id": "vega-kickAssAnime",
+      "name": "kickAssAnime",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/kickAssAnime/stream.js"
+    },
+    {
+      "id": "vega-kissKh",
+      "name": "kissKh",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/kissKh/stream.js"
+    },
+    {
+      "id": "vega-kmMovies",
+      "name": "kmMovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/kmMovies/stream.js"
+    },
+    {
+      "id": "vega-luxMovies",
+      "name": "luxMovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/luxMovies/stream.js"
+    },
+    {
+      "id": "vega-mkvDrama",
+      "name": "mkvDrama",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/mkvDrama/stream.js"
+    },
+    {
+      "id": "vega-mod",
+      "name": "mod (MoviesMod)",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/mod/stream.js"
+    },
+    {
+      "id": "vega-movieBox",
+      "name": "movieBox",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/movieBox/stream.js"
+    },
+    {
+      "id": "vega-movieBoxWeb",
+      "name": "movieBoxWeb",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/movieBoxWeb/stream.js"
+    },
+    {
+      "id": "vega-movies4u",
+      "name": "movies4u",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/movies4u/stream.js"
+    },
+    {
+      "id": "vega-moviesApi",
+      "name": "moviesApi",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/moviesApi/stream.js"
+    },
+    {
+      "id": "vega-moviezwap",
+      "name": "moviezwap",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/moviezwap/stream.js"
+    },
+    {
+      "id": "vega-multi",
+      "name": "multi",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/multi/stream.js"
+    },
+    {
+      "id": "vega-netflixMirror",
+      "name": "netflixMirror",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/netflixMirror/stream.js"
+    },
+    {
+      "id": "vega-ogomovies",
+      "name": "ogomovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/ogomovies/stream.js"
+    },
+    {
+      "id": "vega-primeMirror",
+      "name": "primeMirror",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/primeMirror/stream.js"
+    },
+    {
+      "id": "vega-primewire",
+      "name": "primewire",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/primewire/stream.js"
+    },
+    {
+      "id": "vega-protonMovies",
+      "name": "protonMovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/protonMovies/stream.js"
+    },
+    {
+      "id": "vega-ridoMovies",
+      "name": "ridoMovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/ridoMovies/stream.js"
+    },
+    {
+      "id": "vega-ringz",
+      "name": "ringz",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/ringz/stream.js"
+    },
+    {
+      "id": "vega-showbox",
+      "name": "showbox",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/showbox/stream.js"
+    },
+    {
+      "id": "vega-skyMovieHD",
+      "name": "skyMovieHD",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/skyMovieHD/stream.js"
+    },
+    {
+      "id": "vega-tokyoInsider",
+      "name": "tokyoInsider",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/tokyoInsider/stream.js"
+    },
+    {
+      "id": "vega-topmovies",
+      "name": "topmovies",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/topmovies/stream.js"
+    },
+    {
+      "id": "vega-torrentio",
+      "name": "torrentio",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/torrentio/stream.js"
+    },
+    {
+      "id": "vega-uhd",
+      "name": "uhd",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/uhd/stream.js"
+    },
+    {
+      "id": "vega-uniquestream",
+      "name": "uniquestream",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/uniquestream/stream.js"
+    },
+    {
+      "id": "vega-vadapav",
+      "name": "vadapav",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/vadapav/stream.js"
+    },
+    {
+      "id": "vega-vega",
+      "name": "vega",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/vega/stream.js"
+    },
+    {
+      "id": "vega-world4u",
+      "name": "world4u",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/world4u/stream.js"
+    },
+    {
+      "id": "vega-zeefliz",
+      "name": "zeefliz",
+      "format": "js",
+      "script": "https://raw.githubusercontent.com/Zenda-Cross/vega-providers/main/dist/zeefliz/stream.js"
     }
   ]
 }
+
+
